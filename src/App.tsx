@@ -3,7 +3,7 @@ function App(){
   const [count,setCount]=useState(0);
   const increment=():void=>{
     setCount(count+1);
-    setCount("KLU");
+    
 };
   return (
     <div>
